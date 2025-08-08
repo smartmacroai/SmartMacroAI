@@ -9,6 +9,16 @@ Phần mềm giúp bạn tự động hóa mọi thao tác lặp lại trên Win
 
 Dù bạn là dân văn phòng, game thủ hay người không rành công nghệ, SmartMacroAI đều giúp bạn tiết kiệm thời gian và nâng cao hiệu quả làm việc.
 
+**Thông tin nhà phát triển:**
+
+Tên: Nguyễn Văn Đức
+
+Email: smartmacroai@gmail.com
+
+GitHub: https://github.com/smartmacroai/SmartMacroAI
+
+Số điện thoại: 0985205375
+
 ---
 
 ## 🇬🇧 English
@@ -21,3 +31,13 @@ This software helps you automate any repetitive tasks on Windows with just a few
 - Performance optimized – No mouse blocking – Multi-threaded  
 
 Whether you're an office worker, gamer, or someone with limited tech skills, SmartMacroAI helps you save time and boost productivity.
+
+**Developer Information:**
+
+Name: Nguyễn Văn Đức
+
+Email: smartmacroai@gmail.com
+
+GitHub: https://github.com/smartmacroai/SmartMacroAI
+
+Phone: +84 985 205 375
