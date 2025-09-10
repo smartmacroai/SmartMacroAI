@@ -25,7 +25,7 @@ Fanpage Facebook: https://www.facebook.com/smartmacroai
 
 Cộng đồng Facebook: https://www.facebook.com/groups/smartmacroai
 
-**Download:** https://github.com/smartmacroai/SmartMacroAI/releases/download/1.1.1/SmartMacroAI.rar
+**Download:** https://smartmacroai.com/
 
 ---
 
@@ -59,4 +59,4 @@ Fanpage Facebook: https://www.facebook.com/smartmacroai
 
 Group Facebook: https://www.facebook.com/groups/smartmacroai
 
-**Download:** https://github.com/smartmacroai/SmartMacroAI/releases/download/1.1.1/SmartMacroAI.rar
+**Download:** https://smartmacroai.com/
