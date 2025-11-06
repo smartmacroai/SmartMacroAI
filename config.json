@@ -2,5 +2,5 @@
   "c": "no",
   "v": ["1.1.1", "1.1.2", "1.1.3", "1.1.6", "1.1.8", "1.1.9"],
   "d": "yes",
-  "n": "5|⚠️ Lưu ý quan trọng!-Từ phiên bản 1.2.0, nếu không bật UAC (User Account Control) lên mức cao nhất sẽ không auto thành công trong một số trường hợp."
+  "n": "5|⚠️ Lưu ý quan trọng!-Từ phiên bản 1.2.0, bạn phải bật UAC (User Account Control) lên mức cao nhất để auto thành công trên toàn bộ Web/Giả lập/Client Game."
 }
