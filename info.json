@@ -1,7 +1,7 @@
 {
   "v": {
     "latest": "",
-    "blocked": ["1.3.1"]
+    "blocked": []
   },
   "c": {
     "enabled": false,
