@@ -1,0 +1,16 @@
+{
+  "v": {
+    "latest": "",
+    "blocked": []
+  },
+  "c": {
+    "enabled": false,
+    "hashes": {}
+  },
+  "h": {
+    "enabled": false,
+    "start": "",
+    "end": ""
+  },
+  "d": false
+}
