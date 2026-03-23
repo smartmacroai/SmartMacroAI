@@ -12,9 +12,9 @@
     }
   },
   "h": {
-    "enabled": false,
-    "start": "",
-    "end": ""
+    "enabled": true,
+    "start": "16:47:00",
+    "end": "16:52:00"
   },
   "d": false
 }
